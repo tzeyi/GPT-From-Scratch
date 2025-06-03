@@ -3,3 +3,6 @@ torchvision
 torchaudio
 tiktoken
 nbimporter
+tensorflow
+tqdm
+numpy
