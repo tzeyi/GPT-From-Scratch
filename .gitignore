@@ -1,4 +1,4 @@
 /gpt2
 /__pycache__
 __pycache__
-model_and_optimizer.pth
+*.pth

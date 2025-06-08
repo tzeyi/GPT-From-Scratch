@@ -285,7 +285,7 @@ if __name__ == "__main__":
     torch.manual_seed(123)
 
     CHOOSE_MODEL = "gpt2-small (124M)"
-    INPUT_PROMPT = "Every effort moves you"
+    INPUT_PROMPT = "What is the state of the trade war between China and US"
 
     BASE_CONFIG = {
         "vocab_size": 50257,     # Vocabulary size
